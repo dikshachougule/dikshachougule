@@ -12,4 +12,4 @@
 - Student Management System
 
 📫 Connect with me:
-- LinkedIn: Your LinkedIn URL
+- LinkedIn: www.linkedin.com/in/diksha-chougule
