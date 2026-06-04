@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Diksha 👋
 
-<!--
-**dikshachougule/dikshachougule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student
 
-Here are some ideas to get you started:
+💻 Skills:
+- Java
+- C++
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects:
+- Guess a Number Game (Java)
+- Student Management System
+
+📫 Connect with me:
+- LinkedIn: Your LinkedIn URL
